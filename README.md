@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Computer Science student** specializing in **Cloud service technologies and IT security**. Passionate about **tinkering with operating systems, backend services and working with harware**, but I also love building user applications through web development.
+I'm a **Computer Science student** specializing in **Cloud service technologies and IT security**. Passionate about **tinkering with operating systems, backend services and working with hardware**, but I also love building user applications through web development.
 
 ## Technologies & Interests:
 
